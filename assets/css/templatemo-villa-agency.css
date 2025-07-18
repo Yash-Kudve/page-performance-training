@@ -315,6 +315,9 @@ Pre-loader Style
 Header Style
 --------------------------------------------- 
 */
+.main-banner .item-1 {
+  background-image: url(../images/banner-01.jpg);
+}
 
 .sub-header {
   background-color: #fff;
@@ -744,9 +747,6 @@ Banner Style
   margin-top: 0px;
 }
 
-.main-banner .item-1 {
-  background-image: url(../images/banner-01.jpg);
-}
 
 .main-banner .item-2 {
   background-image: url(../images/banner-02.jpg);
